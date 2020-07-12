@@ -1,6 +1,5 @@
 # DUCELLIER JEAN   
 ## Web developer Junior   
- ![Photo](https://avatars3.githubusercontent.com/u/23262432?s=400&u=52e8017d3879351e60d44d74cbcf0dab0873dde6&v=4 "Photo CV")   
  ### About me  
  Leaving the traditional education system, I turned to food/seasonal work, the opportunity to take my independence to better rebound.
 
