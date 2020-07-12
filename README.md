@@ -1,4 +1,4 @@
-# DUCELLIER JEAN   
+# DUCELLIER JEAN    
 ## Web developer Junior   
  ### About me  
  Leaving the traditional education system, I turned to food/seasonal work, the opportunity to take my independence to better rebound.
