@@ -35,7 +35,7 @@ Creating and working in the world of video games!
 * #### Wild Code School (5 months professional training)
   > Within the framework of the training we were invited to carry out several projects, here is the result. 
 
-  * [Projet n°1 : Orléans green city (Mock Project / 2 weeks / team)](https://github.com/Cyanurzz/WCS-sept2019-java-Orleans_green_city) :   
+  * [Project n°1 : Orléans green city (Mock Project / 2 weeks / team)](https://github.com/Cyanurzz/WCS-sept2019-java-Orleans_green_city) :   
     * Static Project to learn HTML5/CSS3/ in team
     * First approach to git, versionning and group work 
   * [Hackathon n°1 : Tind Bwurggg (Mock Project /24h / 1st places / team)](https://github.com/Cyanurzz/WCS-sept2019-java-1st_Hackathon_TindBwurgg10-2019)
@@ -54,7 +54,7 @@ Creating and working in the world of video games!
     * Spring Boot
     * Bootstrap 4
     
-  * [Projet n°3 : Redisgn FCO web site (Real Project / 8 weeks / team)](https://github.com/Cyanurzz/WCS-sept2019-java-fco_public)
+  * [Project n°3 : Redisgn FCO web site (Real Project / 8 weeks / team)](https://github.com/Cyanurzz/WCS-sept2019-java-fco_public)
      
      >  This was the last project in team at the Wild Code School, the of the club is to be more visible. This site is an essential vector for the image of the club, it must be "beautiful, attractive, practical and readable" in order to also attract sponsors.
   * 
