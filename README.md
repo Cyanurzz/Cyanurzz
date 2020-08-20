@@ -38,26 +38,26 @@ Creating and working in the world of video games!
 * #### Wild Code School (5 months professional training)
   > Within the framework of the training we were invited to carry out several projects, here is the result. 
 
-  * [Project n°1 : Orléans green city (Mock Project / 2 weeks / team)](https://github.com/Cyanurzz/WCS-sept2019-java-Orleans_green_city) :   
+  * [Project n°1 : Orléans green city (Mock Project / 2 weeks / team)](https://github.com/JDucellier/WCS-sept2019-java-Orleans_green_city) :   
     * Static Project to learn HTML5/CSS3/ in team
     * First approach to git, versionning and group work 
-  * [Hackathon n°1 : Tind Bwurggg (Mock Project /24h / 1st places / team)](https://github.com/Cyanurzz/WCS-sept2019-java-1st_Hackathon_TindBwurgg10-2019)
+  * [Hackathon n°1 : Tind Bwurggg (Mock Project /24h / 1st places / team)](https://github.com/JDucellier/WCS-sept2019-java-1st_Hackathon_TindBwurgg10-2019)
     * First Use of an API 
     * First Project with thymleaf and Spring Boot
-  * [Project n°2 : Solo To Band (Mock Project / 5 weeks / teams)](https://github.com/Cyanurzz/WCS-sept2019-java-solotoband_public)
+  * [Project n°2 : Solo To Band (Mock Project / 5 weeks / teams)](https://github.com/JDucellier/WCS-sept2019-java-solotoband_public)
     * Learning POO
     * No database only object
     * Thymleaf
     * Spring Boot
     * Bootstrap 4
-  * [Hackathon n°2 : Keolis (Real Project / 48h / third place / teams)](https://github.com/Cyanurzz/WCS-sept2019-java-hackaton3)  
+  * [Hackathon n°2 : Keolis (Real Project / 48h / third place / teams)](https://github.com/JDucellier/WCS-sept2019-java-hackaton3)  
       > Hackathon proposed by kéolis, the topic: "Developing an application, promoting responsible mobility.  The application must be innovative, younger and more "geeky".
   * 
     * Thymeleaf
     * Spring Boot
     * Bootstrap 4
     
-  * [Project n°3 : Redisgn FCO web site (Real Project / 8 weeks / team)](https://github.com/Cyanurzz/WCS-sept2019-java-fco_public)
+  * [Project n°3 : Redisgn FCO web site (Real Project / 8 weeks / team)](https://github.com/JDucellier/WCS-sept2019-java-fco_public)
      
      >  This was the last project in team at the Wild Code School, the of the club is to be more visible. This site is an essential vector for the image of the club, it must be "beautiful, attractive, practical and readable" in order to also attract sponsors.
   * 
@@ -66,7 +66,7 @@ Creating and working in the world of video games!
     * Thymeleaf
     * Bootstrap 4
     
-  * [Hackathon n°3 : Last Checkpoint (Mock project / 48h / solo)](https://github.com/Cyanurzz/WCS-sept2019-java-Last_Checkpoint_29Janvier)
+  * [Hackathon n°3 : Last Checkpoint (Mock project / 48h / solo)](https://github.com/JDucellier/WCS-sept2019-java-Last_Checkpoint_29Janvier)
      >Last Chekpoint, we've got invite to recreate the wild Circus ( the first exercice before intering in formation ).  but this time we've got five month of dev behind. In this last exercice I decide to use (and learn by the way) for the first time Ui Kit
   * 
     * Spring security
