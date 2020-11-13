@@ -21,7 +21,7 @@ Creating and working in the world of video games!
 ### Experience
   * #### **Create my online CV 06/2020**
     * I recreate my cv on a static page for now ... But in few mounth (when I'm gona pay a real web server), I will add more stuff to show all of my skills !
-      * [My own Website](https://JDucellier.github.io/CV/)
+      * [My own Website](https://JDucellier.github.io/JDucellier/)
   * #### **Design and Development Engineer | ApsideTOP  (internship) du 02/2020 - 06/2020**
     * During these 5 months I could see the world of business, I had the chance to work alongside real professionals and to learn a lot! 
       Moreover, in view of recent events I was able to experiment Teleworking and thus realize an application with the Java/Angular stack 100% remotely. Unfortunetly the repo steel private.
